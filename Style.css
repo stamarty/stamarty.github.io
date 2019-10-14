@@ -1,16 +1,23 @@
 ﻿body
 {
-    position: relative;
     background-color: lightblue;
+}
+
+#bodyPara 
+{
+
 }
 
 #lsidebar
 {
     background-color: #808080;
-    position: absolute;
+    position: fixed;
     top: 80px;
     width: 400px;
-    border: 3px solid #ff0000
+    border: 3px solid #ff0000;
+    padding: 5px 5px 5px 5px;
 
 }
+
+
 
