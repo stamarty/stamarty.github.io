@@ -5,13 +5,14 @@
 
 #bodyPara 
 {
-
+    background-color: antiquewhite;
+    border: 3px, solid, black;
 }
 
 #lsidebar
 {
     background-color: #808080;
-    position: fixed;
+    position: static;
     top: 80px;
     width: 400px;
     border: 3px solid #ff0000;
